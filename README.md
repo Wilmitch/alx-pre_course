@@ -1,1 +1,1 @@
-Hello, This is my Git Readme file
+My git readme file
